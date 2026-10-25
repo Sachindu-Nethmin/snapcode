@@ -1,5 +1,7 @@
 # SnapCode 🦥
 
+![SnapCode demo](docs/demo.gif)
+
 Press a hotkey, drag a box around code on a lecture slide or video, then press Cmd+V. The clean, correctly indented code is already on your clipboard.
 
 Everything runs locally and works without internet:
